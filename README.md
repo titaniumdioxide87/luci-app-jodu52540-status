@@ -1,6 +1,6 @@
 <div align="center">
  
-# luci-app-jodu52140-status
+# luci-app-jodu52540-status
 
 ![Version](https://img.shields.io/badge/version-1.1.2-blue.svg)
 ![OpenWrt Compatible](https://img.shields.io/badge/OpenWrt-Compatible-success.svg)
